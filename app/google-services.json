@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499280506131",
+    "firebase_url": "https://librarysystem-871da.firebaseio.com",
+    "project_id": "librarysystem-871da",
+    "storage_bucket": "librarysystem-871da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499280506131:android:231f86186b6c266e",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.librarysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499280506131-e6cf9m3mhkiveu0mqqjt1u38ldlqck02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.librarysystem",
+            "certificate_hash": "d8ad9b3e0db9d03078aa0b96f774f281b67cdaec"
+          }
+        },
+        {
+          "client_id": "499280506131-vnu1fqe824ik6v2emf3lid6ifnn8k1pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxMn4B9BYrkjjVAzENzCgczk9vxatF78s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499280506131-vnu1fqe824ik6v2emf3lid6ifnn8k1pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
