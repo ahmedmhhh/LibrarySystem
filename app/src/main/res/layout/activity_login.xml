@@ -51,5 +51,16 @@
             android:text="login"
             android:textStyle="bold"
             android:theme="@style/MyButton" />
+
+        <TextView
+            android:gravity="center"
+            android:linksClickable="true"
+            android:layout_weight="0"
+            android:id="@+id/passlink"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Forget your password ?" />
+
+
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
